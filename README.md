@@ -1,2 +1,2 @@
-# Jingjing-Wei
+# Shop Management System
 Sophomore
