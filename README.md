@@ -8,8 +8,8 @@ Maybe this system is not that perfect, but I did all I can within 4 days. I was 
 ### Create database
 - use ShopWeb.mwb
 ### Insert data
-- import *.csv through MySQL work branch
-- use MySQL commond line insert data in *.txt
+- import *.csv(in Data dirctory) through MySQL work branch
+- use MySQL commond line insert data in *.txt(in Data dirctory)
 - create an administrator account for yourself
 ### Run java program
 - lib:lib
