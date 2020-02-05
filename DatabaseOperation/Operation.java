@@ -15,7 +15,7 @@ public class Operation {
     static String url = "jdbc:mysql://127.0.0.1:3306/ShopWeb";
     //static String user = "db";
     static String user = "root";
-    static String password = "140709";
+    static String password = "";
 
     public static void Connect() {
         try {
